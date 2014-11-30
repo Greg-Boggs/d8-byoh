@@ -1,4 +1,4 @@
-d8-byoh
+d8 - BYOH
 =======
 
-D8 Responsive theme for http://www.BYOH.com
+D8 Responsive theme for the home building and cost estimation site:  www.BYOH.com
