@@ -1,4 +1,4 @@
 d8-byoh
 =======
 
-D8 Responsive theme for BYOH.com
+D8 Responsive theme for http://www.BYOH.com
